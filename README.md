@@ -7,5 +7,5 @@ correspond to quantitative levels of entropy.
 
 It contains the following documents:
 - Full DCC Results
-- Custom script used for extracting, preprocessing, and preparing resting-state fMRI data.
+- Custom script used for extracting, preprocessing, and preparing resting-state fMRI data (will be uploaded soon)
 - Custom script for statistical analysis
