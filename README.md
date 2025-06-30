@@ -1,4 +1,4 @@
-This repository contains supplementary material of "Questionable Quantifiability: A Multi-Metric, Multi-Dataset Evaluation of Brain Entropy in Altered States of Consciousness"
+This repository contains supplementary material and custom scripts of "Questionable Quantifiability: A Multi-Metric, Multi-Dataset Evaluation of Brain Entropy in Altered States of Consciousness"
 Master Thesis by Olivier P. de Winter, Student of the Cognitive Neuroscience track of the Psychology Research Master at Leiden University.
 
 This project consisted of a rigorous evaluation of two different brain entropy metrics on fMRI data of a wide range of altered states of consciousness. 
