@@ -6,6 +6,6 @@ The aim was to test the claims made by the entropic brain hypothesis (Carhart-Ha
 correspond to quantitative levels of entropy.
 
 It contains the following documents:
-- Full DCC Results (DCC_fullresults_EBEASC_OdeWinter)
-- Custom script used for extracting, preprocessing, and preparing resting-state fMRI data (will be uploaded soon)
-- Custom script for statistical analysis (EBEASC_Analysis_OdeWinter_062025)
+- DCC_fullresults_EBEASC_OdeWinter.xlsx - Supplementary Table containing Full DCC Results 
+- bids_handler_v17.py - Custom script used for extracting, preprocessing, and preparing resting-state fMRI data
+- EBEASC_Analysis_OdeWinter_062025.ipynb - Custom script for statistical analysis 
